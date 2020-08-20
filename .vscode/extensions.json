@@ -1,0 +1,11 @@
+{
+    "recommendations": [
+        "eamodio.gitlens",
+        "github.vscode-pull-request-github",
+        "ms-python.python",
+        "editorconfig.editorconfig",
+        "fabiospampinato.vscode-todo-plus",
+        "mrorz.language-gettext",
+        "lextudio.restructuredtext"
+    ]
+}
