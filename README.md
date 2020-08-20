@@ -7,6 +7,18 @@ To install some highly recommended Python modules, run the following command:
 pip install -r requirements-dev.txt
 ```
 
+Testing code
+------------
+
+To run tests and see code coverage, run the following commands:
+
+```sh
+coverage run
+coverage html
+```
+
+Then open `htmlcov/index.html` in your favorite browser.
+
 Licensing
 ---------
 
